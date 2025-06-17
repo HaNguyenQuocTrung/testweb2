@@ -1,0 +1,19 @@
+0 verbose cli /usr/local/bin/node /usr/local/bin/npm
+1 info using npm@10.9.2
+2 info using node@v22.16.0
+3 silly config load:file:/usr/local/lib/node_modules/npm/npmrc
+4 silly config load:file:/Users/hatrung/Desktop/Studied/Web2/npmtest/.npmrc
+5 silly config load:file:/Users/hatrung/.npmrc
+6 silly config load:file:/usr/local/etc/npmrc
+7 verbose title npm view sass description dist-tags.latest homepage version time
+8 verbose argv "view" "--json" "--" "sass" "description" "dist-tags.latest" "homepage" "version" "time"
+9 verbose logfile logs-max:10 dir:/Users/hatrung/.npm/_logs/2025-06-17T02_01_22_466Z-
+10 verbose logfile /Users/hatrung/.npm/_logs/2025-06-17T02_01_22_466Z-debug-0.log
+11 silly logfile done cleaning log files
+12 http fetch GET 200 https://registry.npmjs.org/sass 222ms (cache revalidated)
+13 verbose cwd /Users/hatrung/Desktop/Studied/Web2/npmtest
+14 verbose os Darwin 22.3.0
+15 verbose node v22.16.0
+16 verbose npm  v10.9.2
+17 verbose exit 0
+18 info ok
