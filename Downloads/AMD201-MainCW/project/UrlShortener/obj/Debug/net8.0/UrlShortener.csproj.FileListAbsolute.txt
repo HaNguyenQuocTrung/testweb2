@@ -1,0 +1,384 @@
+/Users/macintoshhd/Desktop/Sum/Flys/GreenwichY2/Summer 2025 P1/SC - AMD1109 Micro Services/CW/Porject/UrlShortener/bin/Debug/net8.0/appsettings.Development.json
+/Users/macintoshhd/Desktop/Sum/Flys/GreenwichY2/Summer 2025 P1/SC - AMD1109 Micro Services/CW/Porject/UrlShortener/bin/Debug/net8.0/appsettings.json
+/Users/macintoshhd/Desktop/Sum/Flys/GreenwichY2/Summer 2025 P1/SC - AMD1109 Micro Services/CW/Porject/UrlShortener/bin/Debug/net8.0/UrlShortener.staticwebassets.runtime.json
+/Users/macintoshhd/Desktop/Sum/Flys/GreenwichY2/Summer 2025 P1/SC - AMD1109 Micro Services/CW/Porject/UrlShortener/bin/Debug/net8.0/UrlShortener
+/Users/macintoshhd/Desktop/Sum/Flys/GreenwichY2/Summer 2025 P1/SC - AMD1109 Micro Services/CW/Porject/UrlShortener/bin/Debug/net8.0/UrlShortener.deps.json
+/Users/macintoshhd/Desktop/Sum/Flys/GreenwichY2/Summer 2025 P1/SC - AMD1109 Micro Services/CW/Porject/UrlShortener/bin/Debug/net8.0/UrlShortener.runtimeconfig.json
+/Users/macintoshhd/Desktop/Sum/Flys/GreenwichY2/Summer 2025 P1/SC - AMD1109 Micro Services/CW/Porject/UrlShortener/bin/Debug/net8.0/UrlShortener.dll
+/Users/macintoshhd/Desktop/Sum/Flys/GreenwichY2/Summer 2025 P1/SC - AMD1109 Micro Services/CW/Porject/UrlShortener/bin/Debug/net8.0/UrlShortener.pdb
+/Users/macintoshhd/Desktop/Sum/Flys/GreenwichY2/Summer 2025 P1/SC - AMD1109 Micro Services/CW/Porject/UrlShortener/obj/Debug/net8.0/UrlShortener.GeneratedMSBuildEditorConfig.editorconfig
+/Users/macintoshhd/Desktop/Sum/Flys/GreenwichY2/Summer 2025 P1/SC - AMD1109 Micro Services/CW/Porject/UrlShortener/obj/Debug/net8.0/UrlShortener.AssemblyInfoInputs.cache
+/Users/macintoshhd/Desktop/Sum/Flys/GreenwichY2/Summer 2025 P1/SC - AMD1109 Micro Services/CW/Porject/UrlShortener/obj/Debug/net8.0/UrlShortener.AssemblyInfo.cs
+/Users/macintoshhd/Desktop/Sum/Flys/GreenwichY2/Summer 2025 P1/SC - AMD1109 Micro Services/CW/Porject/UrlShortener/obj/Debug/net8.0/UrlShortener.csproj.CoreCompileInputs.cache
+/Users/macintoshhd/Desktop/Sum/Flys/GreenwichY2/Summer 2025 P1/SC - AMD1109 Micro Services/CW/Porject/UrlShortener/obj/Debug/net8.0/UrlShortener.MvcApplicationPartsAssemblyInfo.cache
+/Users/macintoshhd/Desktop/Sum/Flys/GreenwichY2/Summer 2025 P1/SC - AMD1109 Micro Services/CW/Porject/UrlShortener/obj/Debug/net8.0/UrlShortener.RazorAssemblyInfo.cache
+/Users/macintoshhd/Desktop/Sum/Flys/GreenwichY2/Summer 2025 P1/SC - AMD1109 Micro Services/CW/Porject/UrlShortener/obj/Debug/net8.0/UrlShortener.RazorAssemblyInfo.cs
+/Users/macintoshhd/Desktop/Sum/Flys/GreenwichY2/Summer 2025 P1/SC - AMD1109 Micro Services/CW/Porject/UrlShortener/obj/Debug/net8.0/UrlShortener.sourcelink.json
+/Users/macintoshhd/Desktop/Sum/Flys/GreenwichY2/Summer 2025 P1/SC - AMD1109 Micro Services/CW/Porject/UrlShortener/obj/Debug/net8.0/staticwebassets.build.json
+/Users/macintoshhd/Desktop/Sum/Flys/GreenwichY2/Summer 2025 P1/SC - AMD1109 Micro Services/CW/Porject/UrlShortener/obj/Debug/net8.0/staticwebassets.development.json
+/Users/macintoshhd/Desktop/Sum/Flys/GreenwichY2/Summer 2025 P1/SC - AMD1109 Micro Services/CW/Porject/UrlShortener/obj/Debug/net8.0/staticwebassets/msbuild.UrlShortener.Microsoft.AspNetCore.StaticWebAssets.props
+/Users/macintoshhd/Desktop/Sum/Flys/GreenwichY2/Summer 2025 P1/SC - AMD1109 Micro Services/CW/Porject/UrlShortener/obj/Debug/net8.0/staticwebassets/msbuild.build.UrlShortener.props
+/Users/macintoshhd/Desktop/Sum/Flys/GreenwichY2/Summer 2025 P1/SC - AMD1109 Micro Services/CW/Porject/UrlShortener/obj/Debug/net8.0/staticwebassets/msbuild.buildMultiTargeting.UrlShortener.props
+/Users/macintoshhd/Desktop/Sum/Flys/GreenwichY2/Summer 2025 P1/SC - AMD1109 Micro Services/CW/Porject/UrlShortener/obj/Debug/net8.0/staticwebassets/msbuild.buildTransitive.UrlShortener.props
+/Users/macintoshhd/Desktop/Sum/Flys/GreenwichY2/Summer 2025 P1/SC - AMD1109 Micro Services/CW/Porject/UrlShortener/obj/Debug/net8.0/staticwebassets.pack.json
+/Users/macintoshhd/Desktop/Sum/Flys/GreenwichY2/Summer 2025 P1/SC - AMD1109 Micro Services/CW/Porject/UrlShortener/obj/Debug/net8.0/scopedcss/Views/Shared/_Layout.cshtml.rz.scp.css
+/Users/macintoshhd/Desktop/Sum/Flys/GreenwichY2/Summer 2025 P1/SC - AMD1109 Micro Services/CW/Porject/UrlShortener/obj/Debug/net8.0/scopedcss/bundle/UrlShortener.styles.css
+/Users/macintoshhd/Desktop/Sum/Flys/GreenwichY2/Summer 2025 P1/SC - AMD1109 Micro Services/CW/Porject/UrlShortener/obj/Debug/net8.0/scopedcss/projectbundle/UrlShortener.bundle.scp.css
+/Users/macintoshhd/Desktop/Sum/Flys/GreenwichY2/Summer 2025 P1/SC - AMD1109 Micro Services/CW/Porject/UrlShortener/obj/Debug/net8.0/UrlShortener.dll
+/Users/macintoshhd/Desktop/Sum/Flys/GreenwichY2/Summer 2025 P1/SC - AMD1109 Micro Services/CW/Porject/UrlShortener/obj/Debug/net8.0/refint/UrlShortener.dll
+/Users/macintoshhd/Desktop/Sum/Flys/GreenwichY2/Summer 2025 P1/SC - AMD1109 Micro Services/CW/Porject/UrlShortener/obj/Debug/net8.0/UrlShortener.pdb
+/Users/macintoshhd/Desktop/Sum/Flys/GreenwichY2/Summer 2025 P1/SC - AMD1109 Micro Services/CW/Porject/UrlShortener/obj/Debug/net8.0/UrlShortener.genruntimeconfig.cache
+/Users/macintoshhd/Desktop/Sum/Flys/GreenwichY2/Summer 2025 P1/SC - AMD1109 Micro Services/CW/Porject/UrlShortener/obj/Debug/net8.0/ref/UrlShortener.dll
+/Users/macintoshhd/Desktop/Sum/Flys/GreenwichY2/Summer 2025 P1/SC - AMD1109 Micro Services/CW/project/UrlShortener/bin/Debug/net8.0/appsettings.Development.json
+/Users/macintoshhd/Desktop/Sum/Flys/GreenwichY2/Summer 2025 P1/SC - AMD1109 Micro Services/CW/project/UrlShortener/bin/Debug/net8.0/appsettings.json
+/Users/macintoshhd/Desktop/Sum/Flys/GreenwichY2/Summer 2025 P1/SC - AMD1109 Micro Services/CW/project/UrlShortener/bin/Debug/net8.0/UrlShortener.staticwebassets.runtime.json
+/Users/macintoshhd/Desktop/Sum/Flys/GreenwichY2/Summer 2025 P1/SC - AMD1109 Micro Services/CW/project/UrlShortener/bin/Debug/net8.0/UrlShortener
+/Users/macintoshhd/Desktop/Sum/Flys/GreenwichY2/Summer 2025 P1/SC - AMD1109 Micro Services/CW/project/UrlShortener/bin/Debug/net8.0/UrlShortener.deps.json
+/Users/macintoshhd/Desktop/Sum/Flys/GreenwichY2/Summer 2025 P1/SC - AMD1109 Micro Services/CW/project/UrlShortener/bin/Debug/net8.0/UrlShortener.runtimeconfig.json
+/Users/macintoshhd/Desktop/Sum/Flys/GreenwichY2/Summer 2025 P1/SC - AMD1109 Micro Services/CW/project/UrlShortener/bin/Debug/net8.0/UrlShortener.dll
+/Users/macintoshhd/Desktop/Sum/Flys/GreenwichY2/Summer 2025 P1/SC - AMD1109 Micro Services/CW/project/UrlShortener/bin/Debug/net8.0/UrlShortener.pdb
+/Users/macintoshhd/Desktop/Sum/Flys/GreenwichY2/Summer 2025 P1/SC - AMD1109 Micro Services/CW/project/UrlShortener/bin/Debug/net8.0/Humanizer.dll
+/Users/macintoshhd/Desktop/Sum/Flys/GreenwichY2/Summer 2025 P1/SC - AMD1109 Micro Services/CW/project/UrlShortener/bin/Debug/net8.0/Microsoft.AspNetCore.JsonPatch.dll
+/Users/macintoshhd/Desktop/Sum/Flys/GreenwichY2/Summer 2025 P1/SC - AMD1109 Micro Services/CW/project/UrlShortener/bin/Debug/net8.0/Microsoft.AspNetCore.Mvc.Razor.Extensions.dll
+/Users/macintoshhd/Desktop/Sum/Flys/GreenwichY2/Summer 2025 P1/SC - AMD1109 Micro Services/CW/project/UrlShortener/bin/Debug/net8.0/Microsoft.AspNetCore.Razor.Language.dll
+/Users/macintoshhd/Desktop/Sum/Flys/GreenwichY2/Summer 2025 P1/SC - AMD1109 Micro Services/CW/project/UrlShortener/bin/Debug/net8.0/Microsoft.Bcl.AsyncInterfaces.dll
+/Users/macintoshhd/Desktop/Sum/Flys/GreenwichY2/Summer 2025 P1/SC - AMD1109 Micro Services/CW/project/UrlShortener/bin/Debug/net8.0/Microsoft.Build.Locator.dll
+/Users/macintoshhd/Desktop/Sum/Flys/GreenwichY2/Summer 2025 P1/SC - AMD1109 Micro Services/CW/project/UrlShortener/bin/Debug/net8.0/Microsoft.CodeAnalysis.dll
+/Users/macintoshhd/Desktop/Sum/Flys/GreenwichY2/Summer 2025 P1/SC - AMD1109 Micro Services/CW/project/UrlShortener/bin/Debug/net8.0/Microsoft.CodeAnalysis.CSharp.dll
+/Users/macintoshhd/Desktop/Sum/Flys/GreenwichY2/Summer 2025 P1/SC - AMD1109 Micro Services/CW/project/UrlShortener/bin/Debug/net8.0/Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+/Users/macintoshhd/Desktop/Sum/Flys/GreenwichY2/Summer 2025 P1/SC - AMD1109 Micro Services/CW/project/UrlShortener/bin/Debug/net8.0/Microsoft.CodeAnalysis.Razor.dll
+/Users/macintoshhd/Desktop/Sum/Flys/GreenwichY2/Summer 2025 P1/SC - AMD1109 Micro Services/CW/project/UrlShortener/bin/Debug/net8.0/Microsoft.CodeAnalysis.Workspaces.dll
+/Users/macintoshhd/Desktop/Sum/Flys/GreenwichY2/Summer 2025 P1/SC - AMD1109 Micro Services/CW/project/UrlShortener/bin/Debug/net8.0/Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.dll
+/Users/macintoshhd/Desktop/Sum/Flys/GreenwichY2/Summer 2025 P1/SC - AMD1109 Micro Services/CW/project/UrlShortener/bin/Debug/net8.0/Microsoft.CodeAnalysis.Workspaces.MSBuild.dll
+/Users/macintoshhd/Desktop/Sum/Flys/GreenwichY2/Summer 2025 P1/SC - AMD1109 Micro Services/CW/project/UrlShortener/bin/Debug/net8.0/Microsoft.Data.Sqlite.dll
+/Users/macintoshhd/Desktop/Sum/Flys/GreenwichY2/Summer 2025 P1/SC - AMD1109 Micro Services/CW/project/UrlShortener/bin/Debug/net8.0/Microsoft.EntityFrameworkCore.dll
+/Users/macintoshhd/Desktop/Sum/Flys/GreenwichY2/Summer 2025 P1/SC - AMD1109 Micro Services/CW/project/UrlShortener/bin/Debug/net8.0/Microsoft.EntityFrameworkCore.Abstractions.dll
+/Users/macintoshhd/Desktop/Sum/Flys/GreenwichY2/Summer 2025 P1/SC - AMD1109 Micro Services/CW/project/UrlShortener/bin/Debug/net8.0/Microsoft.EntityFrameworkCore.Design.dll
+/Users/macintoshhd/Desktop/Sum/Flys/GreenwichY2/Summer 2025 P1/SC - AMD1109 Micro Services/CW/project/UrlShortener/bin/Debug/net8.0/Microsoft.EntityFrameworkCore.Relational.dll
+/Users/macintoshhd/Desktop/Sum/Flys/GreenwichY2/Summer 2025 P1/SC - AMD1109 Micro Services/CW/project/UrlShortener/bin/Debug/net8.0/Microsoft.EntityFrameworkCore.Sqlite.dll
+/Users/macintoshhd/Desktop/Sum/Flys/GreenwichY2/Summer 2025 P1/SC - AMD1109 Micro Services/CW/project/UrlShortener/bin/Debug/net8.0/Microsoft.Extensions.Caching.Abstractions.dll
+/Users/macintoshhd/Desktop/Sum/Flys/GreenwichY2/Summer 2025 P1/SC - AMD1109 Micro Services/CW/project/UrlShortener/bin/Debug/net8.0/Microsoft.Extensions.Caching.Memory.dll
+/Users/macintoshhd/Desktop/Sum/Flys/GreenwichY2/Summer 2025 P1/SC - AMD1109 Micro Services/CW/project/UrlShortener/bin/Debug/net8.0/Microsoft.Extensions.Configuration.Abstractions.dll
+/Users/macintoshhd/Desktop/Sum/Flys/GreenwichY2/Summer 2025 P1/SC - AMD1109 Micro Services/CW/project/UrlShortener/bin/Debug/net8.0/Microsoft.Extensions.DependencyInjection.dll
+/Users/macintoshhd/Desktop/Sum/Flys/GreenwichY2/Summer 2025 P1/SC - AMD1109 Micro Services/CW/project/UrlShortener/bin/Debug/net8.0/Microsoft.Extensions.DependencyInjection.Abstractions.dll
+/Users/macintoshhd/Desktop/Sum/Flys/GreenwichY2/Summer 2025 P1/SC - AMD1109 Micro Services/CW/project/UrlShortener/bin/Debug/net8.0/Microsoft.Extensions.DependencyModel.dll
+/Users/macintoshhd/Desktop/Sum/Flys/GreenwichY2/Summer 2025 P1/SC - AMD1109 Micro Services/CW/project/UrlShortener/bin/Debug/net8.0/Microsoft.Extensions.Diagnostics.Abstractions.dll
+/Users/macintoshhd/Desktop/Sum/Flys/GreenwichY2/Summer 2025 P1/SC - AMD1109 Micro Services/CW/project/UrlShortener/bin/Debug/net8.0/Microsoft.Extensions.Hosting.Abstractions.dll
+/Users/macintoshhd/Desktop/Sum/Flys/GreenwichY2/Summer 2025 P1/SC - AMD1109 Micro Services/CW/project/UrlShortener/bin/Debug/net8.0/Microsoft.Extensions.Localization.dll
+/Users/macintoshhd/Desktop/Sum/Flys/GreenwichY2/Summer 2025 P1/SC - AMD1109 Micro Services/CW/project/UrlShortener/bin/Debug/net8.0/Microsoft.Extensions.Localization.Abstractions.dll
+/Users/macintoshhd/Desktop/Sum/Flys/GreenwichY2/Summer 2025 P1/SC - AMD1109 Micro Services/CW/project/UrlShortener/bin/Debug/net8.0/Microsoft.Extensions.Logging.dll
+/Users/macintoshhd/Desktop/Sum/Flys/GreenwichY2/Summer 2025 P1/SC - AMD1109 Micro Services/CW/project/UrlShortener/bin/Debug/net8.0/Microsoft.Extensions.Logging.Abstractions.dll
+/Users/macintoshhd/Desktop/Sum/Flys/GreenwichY2/Summer 2025 P1/SC - AMD1109 Micro Services/CW/project/UrlShortener/bin/Debug/net8.0/Microsoft.Extensions.ObjectPool.dll
+/Users/macintoshhd/Desktop/Sum/Flys/GreenwichY2/Summer 2025 P1/SC - AMD1109 Micro Services/CW/project/UrlShortener/bin/Debug/net8.0/Microsoft.Extensions.Options.dll
+/Users/macintoshhd/Desktop/Sum/Flys/GreenwichY2/Summer 2025 P1/SC - AMD1109 Micro Services/CW/project/UrlShortener/bin/Debug/net8.0/Microsoft.Extensions.Primitives.dll
+/Users/macintoshhd/Desktop/Sum/Flys/GreenwichY2/Summer 2025 P1/SC - AMD1109 Micro Services/CW/project/UrlShortener/bin/Debug/net8.0/Microsoft.Extensions.WebEncoders.dll
+/Users/macintoshhd/Desktop/Sum/Flys/GreenwichY2/Summer 2025 P1/SC - AMD1109 Micro Services/CW/project/UrlShortener/bin/Debug/net8.0/Mono.TextTemplating.dll
+/Users/macintoshhd/Desktop/Sum/Flys/GreenwichY2/Summer 2025 P1/SC - AMD1109 Micro Services/CW/project/UrlShortener/bin/Debug/net8.0/Newtonsoft.Json.dll
+/Users/macintoshhd/Desktop/Sum/Flys/GreenwichY2/Summer 2025 P1/SC - AMD1109 Micro Services/CW/project/UrlShortener/bin/Debug/net8.0/Newtonsoft.Json.Bson.dll
+/Users/macintoshhd/Desktop/Sum/Flys/GreenwichY2/Summer 2025 P1/SC - AMD1109 Micro Services/CW/project/UrlShortener/bin/Debug/net8.0/SQLitePCLRaw.batteries_v2.dll
+/Users/macintoshhd/Desktop/Sum/Flys/GreenwichY2/Summer 2025 P1/SC - AMD1109 Micro Services/CW/project/UrlShortener/bin/Debug/net8.0/SQLitePCLRaw.core.dll
+/Users/macintoshhd/Desktop/Sum/Flys/GreenwichY2/Summer 2025 P1/SC - AMD1109 Micro Services/CW/project/UrlShortener/bin/Debug/net8.0/SQLitePCLRaw.provider.e_sqlite3.dll
+/Users/macintoshhd/Desktop/Sum/Flys/GreenwichY2/Summer 2025 P1/SC - AMD1109 Micro Services/CW/project/UrlShortener/bin/Debug/net8.0/System.CodeDom.dll
+/Users/macintoshhd/Desktop/Sum/Flys/GreenwichY2/Summer 2025 P1/SC - AMD1109 Micro Services/CW/project/UrlShortener/bin/Debug/net8.0/System.Composition.AttributedModel.dll
+/Users/macintoshhd/Desktop/Sum/Flys/GreenwichY2/Summer 2025 P1/SC - AMD1109 Micro Services/CW/project/UrlShortener/bin/Debug/net8.0/System.Composition.Convention.dll
+/Users/macintoshhd/Desktop/Sum/Flys/GreenwichY2/Summer 2025 P1/SC - AMD1109 Micro Services/CW/project/UrlShortener/bin/Debug/net8.0/System.Composition.Hosting.dll
+/Users/macintoshhd/Desktop/Sum/Flys/GreenwichY2/Summer 2025 P1/SC - AMD1109 Micro Services/CW/project/UrlShortener/bin/Debug/net8.0/System.Composition.Runtime.dll
+/Users/macintoshhd/Desktop/Sum/Flys/GreenwichY2/Summer 2025 P1/SC - AMD1109 Micro Services/CW/project/UrlShortener/bin/Debug/net8.0/System.Composition.TypedParts.dll
+/Users/macintoshhd/Desktop/Sum/Flys/GreenwichY2/Summer 2025 P1/SC - AMD1109 Micro Services/CW/project/UrlShortener/bin/Debug/net8.0/System.Diagnostics.DiagnosticSource.dll
+/Users/macintoshhd/Desktop/Sum/Flys/GreenwichY2/Summer 2025 P1/SC - AMD1109 Micro Services/CW/project/UrlShortener/bin/Debug/net8.0/System.IO.Pipelines.dll
+/Users/macintoshhd/Desktop/Sum/Flys/GreenwichY2/Summer 2025 P1/SC - AMD1109 Micro Services/CW/project/UrlShortener/bin/Debug/net8.0/System.Security.Cryptography.Pkcs.dll
+/Users/macintoshhd/Desktop/Sum/Flys/GreenwichY2/Summer 2025 P1/SC - AMD1109 Micro Services/CW/project/UrlShortener/bin/Debug/net8.0/System.Security.Cryptography.Xml.dll
+/Users/macintoshhd/Desktop/Sum/Flys/GreenwichY2/Summer 2025 P1/SC - AMD1109 Micro Services/CW/project/UrlShortener/bin/Debug/net8.0/System.Text.Encodings.Web.dll
+/Users/macintoshhd/Desktop/Sum/Flys/GreenwichY2/Summer 2025 P1/SC - AMD1109 Micro Services/CW/project/UrlShortener/bin/Debug/net8.0/System.Text.Json.dll
+/Users/macintoshhd/Desktop/Sum/Flys/GreenwichY2/Summer 2025 P1/SC - AMD1109 Micro Services/CW/project/UrlShortener/bin/Debug/net8.0/cs/Microsoft.CodeAnalysis.resources.dll
+/Users/macintoshhd/Desktop/Sum/Flys/GreenwichY2/Summer 2025 P1/SC - AMD1109 Micro Services/CW/project/UrlShortener/bin/Debug/net8.0/de/Microsoft.CodeAnalysis.resources.dll
+/Users/macintoshhd/Desktop/Sum/Flys/GreenwichY2/Summer 2025 P1/SC - AMD1109 Micro Services/CW/project/UrlShortener/bin/Debug/net8.0/es/Microsoft.CodeAnalysis.resources.dll
+/Users/macintoshhd/Desktop/Sum/Flys/GreenwichY2/Summer 2025 P1/SC - AMD1109 Micro Services/CW/project/UrlShortener/bin/Debug/net8.0/fr/Microsoft.CodeAnalysis.resources.dll
+/Users/macintoshhd/Desktop/Sum/Flys/GreenwichY2/Summer 2025 P1/SC - AMD1109 Micro Services/CW/project/UrlShortener/bin/Debug/net8.0/it/Microsoft.CodeAnalysis.resources.dll
+/Users/macintoshhd/Desktop/Sum/Flys/GreenwichY2/Summer 2025 P1/SC - AMD1109 Micro Services/CW/project/UrlShortener/bin/Debug/net8.0/ja/Microsoft.CodeAnalysis.resources.dll
+/Users/macintoshhd/Desktop/Sum/Flys/GreenwichY2/Summer 2025 P1/SC - AMD1109 Micro Services/CW/project/UrlShortener/bin/Debug/net8.0/ko/Microsoft.CodeAnalysis.resources.dll
+/Users/macintoshhd/Desktop/Sum/Flys/GreenwichY2/Summer 2025 P1/SC - AMD1109 Micro Services/CW/project/UrlShortener/bin/Debug/net8.0/pl/Microsoft.CodeAnalysis.resources.dll
+/Users/macintoshhd/Desktop/Sum/Flys/GreenwichY2/Summer 2025 P1/SC - AMD1109 Micro Services/CW/project/UrlShortener/bin/Debug/net8.0/pt-BR/Microsoft.CodeAnalysis.resources.dll
+/Users/macintoshhd/Desktop/Sum/Flys/GreenwichY2/Summer 2025 P1/SC - AMD1109 Micro Services/CW/project/UrlShortener/bin/Debug/net8.0/ru/Microsoft.CodeAnalysis.resources.dll
+/Users/macintoshhd/Desktop/Sum/Flys/GreenwichY2/Summer 2025 P1/SC - AMD1109 Micro Services/CW/project/UrlShortener/bin/Debug/net8.0/tr/Microsoft.CodeAnalysis.resources.dll
+/Users/macintoshhd/Desktop/Sum/Flys/GreenwichY2/Summer 2025 P1/SC - AMD1109 Micro Services/CW/project/UrlShortener/bin/Debug/net8.0/zh-Hans/Microsoft.CodeAnalysis.resources.dll
+/Users/macintoshhd/Desktop/Sum/Flys/GreenwichY2/Summer 2025 P1/SC - AMD1109 Micro Services/CW/project/UrlShortener/bin/Debug/net8.0/zh-Hant/Microsoft.CodeAnalysis.resources.dll
+/Users/macintoshhd/Desktop/Sum/Flys/GreenwichY2/Summer 2025 P1/SC - AMD1109 Micro Services/CW/project/UrlShortener/bin/Debug/net8.0/cs/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/macintoshhd/Desktop/Sum/Flys/GreenwichY2/Summer 2025 P1/SC - AMD1109 Micro Services/CW/project/UrlShortener/bin/Debug/net8.0/de/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/macintoshhd/Desktop/Sum/Flys/GreenwichY2/Summer 2025 P1/SC - AMD1109 Micro Services/CW/project/UrlShortener/bin/Debug/net8.0/es/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/macintoshhd/Desktop/Sum/Flys/GreenwichY2/Summer 2025 P1/SC - AMD1109 Micro Services/CW/project/UrlShortener/bin/Debug/net8.0/fr/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/macintoshhd/Desktop/Sum/Flys/GreenwichY2/Summer 2025 P1/SC - AMD1109 Micro Services/CW/project/UrlShortener/bin/Debug/net8.0/it/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/macintoshhd/Desktop/Sum/Flys/GreenwichY2/Summer 2025 P1/SC - AMD1109 Micro Services/CW/project/UrlShortener/bin/Debug/net8.0/ja/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/macintoshhd/Desktop/Sum/Flys/GreenwichY2/Summer 2025 P1/SC - AMD1109 Micro Services/CW/project/UrlShortener/bin/Debug/net8.0/ko/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/macintoshhd/Desktop/Sum/Flys/GreenwichY2/Summer 2025 P1/SC - AMD1109 Micro Services/CW/project/UrlShortener/bin/Debug/net8.0/pl/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/macintoshhd/Desktop/Sum/Flys/GreenwichY2/Summer 2025 P1/SC - AMD1109 Micro Services/CW/project/UrlShortener/bin/Debug/net8.0/pt-BR/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/macintoshhd/Desktop/Sum/Flys/GreenwichY2/Summer 2025 P1/SC - AMD1109 Micro Services/CW/project/UrlShortener/bin/Debug/net8.0/ru/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/macintoshhd/Desktop/Sum/Flys/GreenwichY2/Summer 2025 P1/SC - AMD1109 Micro Services/CW/project/UrlShortener/bin/Debug/net8.0/tr/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/macintoshhd/Desktop/Sum/Flys/GreenwichY2/Summer 2025 P1/SC - AMD1109 Micro Services/CW/project/UrlShortener/bin/Debug/net8.0/zh-Hans/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/macintoshhd/Desktop/Sum/Flys/GreenwichY2/Summer 2025 P1/SC - AMD1109 Micro Services/CW/project/UrlShortener/bin/Debug/net8.0/zh-Hant/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/macintoshhd/Desktop/Sum/Flys/GreenwichY2/Summer 2025 P1/SC - AMD1109 Micro Services/CW/project/UrlShortener/bin/Debug/net8.0/cs/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/macintoshhd/Desktop/Sum/Flys/GreenwichY2/Summer 2025 P1/SC - AMD1109 Micro Services/CW/project/UrlShortener/bin/Debug/net8.0/de/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/macintoshhd/Desktop/Sum/Flys/GreenwichY2/Summer 2025 P1/SC - AMD1109 Micro Services/CW/project/UrlShortener/bin/Debug/net8.0/es/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/macintoshhd/Desktop/Sum/Flys/GreenwichY2/Summer 2025 P1/SC - AMD1109 Micro Services/CW/project/UrlShortener/bin/Debug/net8.0/fr/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/macintoshhd/Desktop/Sum/Flys/GreenwichY2/Summer 2025 P1/SC - AMD1109 Micro Services/CW/project/UrlShortener/bin/Debug/net8.0/it/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/macintoshhd/Desktop/Sum/Flys/GreenwichY2/Summer 2025 P1/SC - AMD1109 Micro Services/CW/project/UrlShortener/bin/Debug/net8.0/ja/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/macintoshhd/Desktop/Sum/Flys/GreenwichY2/Summer 2025 P1/SC - AMD1109 Micro Services/CW/project/UrlShortener/bin/Debug/net8.0/ko/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/macintoshhd/Desktop/Sum/Flys/GreenwichY2/Summer 2025 P1/SC - AMD1109 Micro Services/CW/project/UrlShortener/bin/Debug/net8.0/pl/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/macintoshhd/Desktop/Sum/Flys/GreenwichY2/Summer 2025 P1/SC - AMD1109 Micro Services/CW/project/UrlShortener/bin/Debug/net8.0/pt-BR/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/macintoshhd/Desktop/Sum/Flys/GreenwichY2/Summer 2025 P1/SC - AMD1109 Micro Services/CW/project/UrlShortener/bin/Debug/net8.0/ru/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/macintoshhd/Desktop/Sum/Flys/GreenwichY2/Summer 2025 P1/SC - AMD1109 Micro Services/CW/project/UrlShortener/bin/Debug/net8.0/tr/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/macintoshhd/Desktop/Sum/Flys/GreenwichY2/Summer 2025 P1/SC - AMD1109 Micro Services/CW/project/UrlShortener/bin/Debug/net8.0/zh-Hans/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/macintoshhd/Desktop/Sum/Flys/GreenwichY2/Summer 2025 P1/SC - AMD1109 Micro Services/CW/project/UrlShortener/bin/Debug/net8.0/zh-Hant/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/macintoshhd/Desktop/Sum/Flys/GreenwichY2/Summer 2025 P1/SC - AMD1109 Micro Services/CW/project/UrlShortener/bin/Debug/net8.0/cs/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/macintoshhd/Desktop/Sum/Flys/GreenwichY2/Summer 2025 P1/SC - AMD1109 Micro Services/CW/project/UrlShortener/bin/Debug/net8.0/de/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/macintoshhd/Desktop/Sum/Flys/GreenwichY2/Summer 2025 P1/SC - AMD1109 Micro Services/CW/project/UrlShortener/bin/Debug/net8.0/es/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/macintoshhd/Desktop/Sum/Flys/GreenwichY2/Summer 2025 P1/SC - AMD1109 Micro Services/CW/project/UrlShortener/bin/Debug/net8.0/fr/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/macintoshhd/Desktop/Sum/Flys/GreenwichY2/Summer 2025 P1/SC - AMD1109 Micro Services/CW/project/UrlShortener/bin/Debug/net8.0/it/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/macintoshhd/Desktop/Sum/Flys/GreenwichY2/Summer 2025 P1/SC - AMD1109 Micro Services/CW/project/UrlShortener/bin/Debug/net8.0/ja/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/macintoshhd/Desktop/Sum/Flys/GreenwichY2/Summer 2025 P1/SC - AMD1109 Micro Services/CW/project/UrlShortener/bin/Debug/net8.0/ko/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/macintoshhd/Desktop/Sum/Flys/GreenwichY2/Summer 2025 P1/SC - AMD1109 Micro Services/CW/project/UrlShortener/bin/Debug/net8.0/pl/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/macintoshhd/Desktop/Sum/Flys/GreenwichY2/Summer 2025 P1/SC - AMD1109 Micro Services/CW/project/UrlShortener/bin/Debug/net8.0/pt-BR/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/macintoshhd/Desktop/Sum/Flys/GreenwichY2/Summer 2025 P1/SC - AMD1109 Micro Services/CW/project/UrlShortener/bin/Debug/net8.0/ru/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/macintoshhd/Desktop/Sum/Flys/GreenwichY2/Summer 2025 P1/SC - AMD1109 Micro Services/CW/project/UrlShortener/bin/Debug/net8.0/tr/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/macintoshhd/Desktop/Sum/Flys/GreenwichY2/Summer 2025 P1/SC - AMD1109 Micro Services/CW/project/UrlShortener/bin/Debug/net8.0/zh-Hans/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/macintoshhd/Desktop/Sum/Flys/GreenwichY2/Summer 2025 P1/SC - AMD1109 Micro Services/CW/project/UrlShortener/bin/Debug/net8.0/zh-Hant/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/macintoshhd/Desktop/Sum/Flys/GreenwichY2/Summer 2025 P1/SC - AMD1109 Micro Services/CW/project/UrlShortener/bin/Debug/net8.0/cs/Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+/Users/macintoshhd/Desktop/Sum/Flys/GreenwichY2/Summer 2025 P1/SC - AMD1109 Micro Services/CW/project/UrlShortener/bin/Debug/net8.0/de/Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+/Users/macintoshhd/Desktop/Sum/Flys/GreenwichY2/Summer 2025 P1/SC - AMD1109 Micro Services/CW/project/UrlShortener/bin/Debug/net8.0/es/Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+/Users/macintoshhd/Desktop/Sum/Flys/GreenwichY2/Summer 2025 P1/SC - AMD1109 Micro Services/CW/project/UrlShortener/bin/Debug/net8.0/fr/Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+/Users/macintoshhd/Desktop/Sum/Flys/GreenwichY2/Summer 2025 P1/SC - AMD1109 Micro Services/CW/project/UrlShortener/bin/Debug/net8.0/it/Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+/Users/macintoshhd/Desktop/Sum/Flys/GreenwichY2/Summer 2025 P1/SC - AMD1109 Micro Services/CW/project/UrlShortener/bin/Debug/net8.0/ja/Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+/Users/macintoshhd/Desktop/Sum/Flys/GreenwichY2/Summer 2025 P1/SC - AMD1109 Micro Services/CW/project/UrlShortener/bin/Debug/net8.0/ko/Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+/Users/macintoshhd/Desktop/Sum/Flys/GreenwichY2/Summer 2025 P1/SC - AMD1109 Micro Services/CW/project/UrlShortener/bin/Debug/net8.0/pl/Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+/Users/macintoshhd/Desktop/Sum/Flys/GreenwichY2/Summer 2025 P1/SC - AMD1109 Micro Services/CW/project/UrlShortener/bin/Debug/net8.0/pt-BR/Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+/Users/macintoshhd/Desktop/Sum/Flys/GreenwichY2/Summer 2025 P1/SC - AMD1109 Micro Services/CW/project/UrlShortener/bin/Debug/net8.0/ru/Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+/Users/macintoshhd/Desktop/Sum/Flys/GreenwichY2/Summer 2025 P1/SC - AMD1109 Micro Services/CW/project/UrlShortener/bin/Debug/net8.0/tr/Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+/Users/macintoshhd/Desktop/Sum/Flys/GreenwichY2/Summer 2025 P1/SC - AMD1109 Micro Services/CW/project/UrlShortener/bin/Debug/net8.0/zh-Hans/Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+/Users/macintoshhd/Desktop/Sum/Flys/GreenwichY2/Summer 2025 P1/SC - AMD1109 Micro Services/CW/project/UrlShortener/bin/Debug/net8.0/zh-Hant/Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+/Users/macintoshhd/Desktop/Sum/Flys/GreenwichY2/Summer 2025 P1/SC - AMD1109 Micro Services/CW/project/UrlShortener/bin/Debug/net8.0/runtimes/browser-wasm/nativeassets/net8.0/e_sqlite3.a
+/Users/macintoshhd/Desktop/Sum/Flys/GreenwichY2/Summer 2025 P1/SC - AMD1109 Micro Services/CW/project/UrlShortener/bin/Debug/net8.0/runtimes/linux-arm/native/libe_sqlite3.so
+/Users/macintoshhd/Desktop/Sum/Flys/GreenwichY2/Summer 2025 P1/SC - AMD1109 Micro Services/CW/project/UrlShortener/bin/Debug/net8.0/runtimes/linux-arm64/native/libe_sqlite3.so
+/Users/macintoshhd/Desktop/Sum/Flys/GreenwichY2/Summer 2025 P1/SC - AMD1109 Micro Services/CW/project/UrlShortener/bin/Debug/net8.0/runtimes/linux-armel/native/libe_sqlite3.so
+/Users/macintoshhd/Desktop/Sum/Flys/GreenwichY2/Summer 2025 P1/SC - AMD1109 Micro Services/CW/project/UrlShortener/bin/Debug/net8.0/runtimes/linux-mips64/native/libe_sqlite3.so
+/Users/macintoshhd/Desktop/Sum/Flys/GreenwichY2/Summer 2025 P1/SC - AMD1109 Micro Services/CW/project/UrlShortener/bin/Debug/net8.0/runtimes/linux-musl-arm/native/libe_sqlite3.so
+/Users/macintoshhd/Desktop/Sum/Flys/GreenwichY2/Summer 2025 P1/SC - AMD1109 Micro Services/CW/project/UrlShortener/bin/Debug/net8.0/runtimes/linux-musl-arm64/native/libe_sqlite3.so
+/Users/macintoshhd/Desktop/Sum/Flys/GreenwichY2/Summer 2025 P1/SC - AMD1109 Micro Services/CW/project/UrlShortener/bin/Debug/net8.0/runtimes/linux-musl-s390x/native/libe_sqlite3.so
+/Users/macintoshhd/Desktop/Sum/Flys/GreenwichY2/Summer 2025 P1/SC - AMD1109 Micro Services/CW/project/UrlShortener/bin/Debug/net8.0/runtimes/linux-musl-x64/native/libe_sqlite3.so
+/Users/macintoshhd/Desktop/Sum/Flys/GreenwichY2/Summer 2025 P1/SC - AMD1109 Micro Services/CW/project/UrlShortener/bin/Debug/net8.0/runtimes/linux-ppc64le/native/libe_sqlite3.so
+/Users/macintoshhd/Desktop/Sum/Flys/GreenwichY2/Summer 2025 P1/SC - AMD1109 Micro Services/CW/project/UrlShortener/bin/Debug/net8.0/runtimes/linux-s390x/native/libe_sqlite3.so
+/Users/macintoshhd/Desktop/Sum/Flys/GreenwichY2/Summer 2025 P1/SC - AMD1109 Micro Services/CW/project/UrlShortener/bin/Debug/net8.0/runtimes/linux-x64/native/libe_sqlite3.so
+/Users/macintoshhd/Desktop/Sum/Flys/GreenwichY2/Summer 2025 P1/SC - AMD1109 Micro Services/CW/project/UrlShortener/bin/Debug/net8.0/runtimes/linux-x86/native/libe_sqlite3.so
+/Users/macintoshhd/Desktop/Sum/Flys/GreenwichY2/Summer 2025 P1/SC - AMD1109 Micro Services/CW/project/UrlShortener/bin/Debug/net8.0/runtimes/maccatalyst-arm64/native/libe_sqlite3.dylib
+/Users/macintoshhd/Desktop/Sum/Flys/GreenwichY2/Summer 2025 P1/SC - AMD1109 Micro Services/CW/project/UrlShortener/bin/Debug/net8.0/runtimes/maccatalyst-x64/native/libe_sqlite3.dylib
+/Users/macintoshhd/Desktop/Sum/Flys/GreenwichY2/Summer 2025 P1/SC - AMD1109 Micro Services/CW/project/UrlShortener/bin/Debug/net8.0/runtimes/osx-arm64/native/libe_sqlite3.dylib
+/Users/macintoshhd/Desktop/Sum/Flys/GreenwichY2/Summer 2025 P1/SC - AMD1109 Micro Services/CW/project/UrlShortener/bin/Debug/net8.0/runtimes/osx-x64/native/libe_sqlite3.dylib
+/Users/macintoshhd/Desktop/Sum/Flys/GreenwichY2/Summer 2025 P1/SC - AMD1109 Micro Services/CW/project/UrlShortener/bin/Debug/net8.0/runtimes/win-arm/native/e_sqlite3.dll
+/Users/macintoshhd/Desktop/Sum/Flys/GreenwichY2/Summer 2025 P1/SC - AMD1109 Micro Services/CW/project/UrlShortener/bin/Debug/net8.0/runtimes/win-arm64/native/e_sqlite3.dll
+/Users/macintoshhd/Desktop/Sum/Flys/GreenwichY2/Summer 2025 P1/SC - AMD1109 Micro Services/CW/project/UrlShortener/bin/Debug/net8.0/runtimes/win-x64/native/e_sqlite3.dll
+/Users/macintoshhd/Desktop/Sum/Flys/GreenwichY2/Summer 2025 P1/SC - AMD1109 Micro Services/CW/project/UrlShortener/bin/Debug/net8.0/runtimes/win-x86/native/e_sqlite3.dll
+/Users/macintoshhd/Desktop/Sum/Flys/GreenwichY2/Summer 2025 P1/SC - AMD1109 Micro Services/CW/project/UrlShortener/bin/Debug/net8.0/runtimes/win/lib/net8.0/System.Security.Cryptography.Pkcs.dll
+/Users/macintoshhd/Desktop/Sum/Flys/GreenwichY2/Summer 2025 P1/SC - AMD1109 Micro Services/CW/project/UrlShortener/bin/Debug/net8.0/runtimes/browser/lib/net8.0/System.Text.Encodings.Web.dll
+/Users/macintoshhd/Desktop/Sum/Flys/GreenwichY2/Summer 2025 P1/SC - AMD1109 Micro Services/CW/project/UrlShortener/obj/Debug/net8.0/UrlShortener.csproj.AssemblyReference.cache
+/Users/macintoshhd/Desktop/Sum/Flys/GreenwichY2/Summer 2025 P1/SC - AMD1109 Micro Services/CW/project/UrlShortener/obj/Debug/net8.0/UrlShortener.GeneratedMSBuildEditorConfig.editorconfig
+/Users/macintoshhd/Desktop/Sum/Flys/GreenwichY2/Summer 2025 P1/SC - AMD1109 Micro Services/CW/project/UrlShortener/obj/Debug/net8.0/UrlShortener.AssemblyInfoInputs.cache
+/Users/macintoshhd/Desktop/Sum/Flys/GreenwichY2/Summer 2025 P1/SC - AMD1109 Micro Services/CW/project/UrlShortener/obj/Debug/net8.0/UrlShortener.AssemblyInfo.cs
+/Users/macintoshhd/Desktop/Sum/Flys/GreenwichY2/Summer 2025 P1/SC - AMD1109 Micro Services/CW/project/UrlShortener/obj/Debug/net8.0/UrlShortener.csproj.CoreCompileInputs.cache
+/Users/macintoshhd/Desktop/Sum/Flys/GreenwichY2/Summer 2025 P1/SC - AMD1109 Micro Services/CW/project/UrlShortener/obj/Debug/net8.0/UrlShortener.MvcApplicationPartsAssemblyInfo.cache
+/Users/macintoshhd/Desktop/Sum/Flys/GreenwichY2/Summer 2025 P1/SC - AMD1109 Micro Services/CW/project/UrlShortener/obj/Debug/net8.0/UrlShortener.RazorAssemblyInfo.cache
+/Users/macintoshhd/Desktop/Sum/Flys/GreenwichY2/Summer 2025 P1/SC - AMD1109 Micro Services/CW/project/UrlShortener/obj/Debug/net8.0/UrlShortener.RazorAssemblyInfo.cs
+/Users/macintoshhd/Desktop/Sum/Flys/GreenwichY2/Summer 2025 P1/SC - AMD1109 Micro Services/CW/project/UrlShortener/obj/Debug/net8.0/UrlShortener.sourcelink.json
+/Users/macintoshhd/Desktop/Sum/Flys/GreenwichY2/Summer 2025 P1/SC - AMD1109 Micro Services/CW/project/UrlShortener/obj/Debug/net8.0/staticwebassets.build.json
+/Users/macintoshhd/Desktop/Sum/Flys/GreenwichY2/Summer 2025 P1/SC - AMD1109 Micro Services/CW/project/UrlShortener/obj/Debug/net8.0/staticwebassets.development.json
+/Users/macintoshhd/Desktop/Sum/Flys/GreenwichY2/Summer 2025 P1/SC - AMD1109 Micro Services/CW/project/UrlShortener/obj/Debug/net8.0/staticwebassets/msbuild.UrlShortener.Microsoft.AspNetCore.StaticWebAssets.props
+/Users/macintoshhd/Desktop/Sum/Flys/GreenwichY2/Summer 2025 P1/SC - AMD1109 Micro Services/CW/project/UrlShortener/obj/Debug/net8.0/staticwebassets/msbuild.build.UrlShortener.props
+/Users/macintoshhd/Desktop/Sum/Flys/GreenwichY2/Summer 2025 P1/SC - AMD1109 Micro Services/CW/project/UrlShortener/obj/Debug/net8.0/staticwebassets/msbuild.buildMultiTargeting.UrlShortener.props
+/Users/macintoshhd/Desktop/Sum/Flys/GreenwichY2/Summer 2025 P1/SC - AMD1109 Micro Services/CW/project/UrlShortener/obj/Debug/net8.0/staticwebassets/msbuild.buildTransitive.UrlShortener.props
+/Users/macintoshhd/Desktop/Sum/Flys/GreenwichY2/Summer 2025 P1/SC - AMD1109 Micro Services/CW/project/UrlShortener/obj/Debug/net8.0/staticwebassets.pack.json
+/Users/macintoshhd/Desktop/Sum/Flys/GreenwichY2/Summer 2025 P1/SC - AMD1109 Micro Services/CW/project/UrlShortener/obj/Debug/net8.0/scopedcss/Views/Shared/_Layout.cshtml.rz.scp.css
+/Users/macintoshhd/Desktop/Sum/Flys/GreenwichY2/Summer 2025 P1/SC - AMD1109 Micro Services/CW/project/UrlShortener/obj/Debug/net8.0/scopedcss/bundle/UrlShortener.styles.css
+/Users/macintoshhd/Desktop/Sum/Flys/GreenwichY2/Summer 2025 P1/SC - AMD1109 Micro Services/CW/project/UrlShortener/obj/Debug/net8.0/scopedcss/projectbundle/UrlShortener.bundle.scp.css
+/Users/macintoshhd/Desktop/Sum/Flys/GreenwichY2/Summer 2025 P1/SC - AMD1109 Micro Services/CW/project/UrlShortener/obj/Debug/net8.0/UrlShort.46B0166A.Up2Date
+/Users/macintoshhd/Desktop/Sum/Flys/GreenwichY2/Summer 2025 P1/SC - AMD1109 Micro Services/CW/project/UrlShortener/obj/Debug/net8.0/UrlShortener.dll
+/Users/macintoshhd/Desktop/Sum/Flys/GreenwichY2/Summer 2025 P1/SC - AMD1109 Micro Services/CW/project/UrlShortener/obj/Debug/net8.0/refint/UrlShortener.dll
+/Users/macintoshhd/Desktop/Sum/Flys/GreenwichY2/Summer 2025 P1/SC - AMD1109 Micro Services/CW/project/UrlShortener/obj/Debug/net8.0/UrlShortener.pdb
+/Users/macintoshhd/Desktop/Sum/Flys/GreenwichY2/Summer 2025 P1/SC - AMD1109 Micro Services/CW/project/UrlShortener/obj/Debug/net8.0/UrlShortener.genruntimeconfig.cache
+/Users/macintoshhd/Desktop/Sum/Flys/GreenwichY2/Summer 2025 P1/SC - AMD1109 Micro Services/CW/project/UrlShortener/obj/Debug/net8.0/ref/UrlShortener.dll
+/Users/hatrung/Downloads/AMD1109-main/project/UrlShortener/bin/Debug/net8.0/appsettings.Development.json
+/Users/hatrung/Downloads/AMD1109-main/project/UrlShortener/bin/Debug/net8.0/appsettings.json
+/Users/hatrung/Downloads/AMD1109-main/project/UrlShortener/bin/Debug/net8.0/UrlShortener.staticwebassets.runtime.json
+/Users/hatrung/Downloads/AMD1109-main/project/UrlShortener/bin/Debug/net8.0/UrlShortener
+/Users/hatrung/Downloads/AMD1109-main/project/UrlShortener/bin/Debug/net8.0/UrlShortener.deps.json
+/Users/hatrung/Downloads/AMD1109-main/project/UrlShortener/bin/Debug/net8.0/UrlShortener.runtimeconfig.json
+/Users/hatrung/Downloads/AMD1109-main/project/UrlShortener/bin/Debug/net8.0/UrlShortener.dll
+/Users/hatrung/Downloads/AMD1109-main/project/UrlShortener/bin/Debug/net8.0/UrlShortener.pdb
+/Users/hatrung/Downloads/AMD1109-main/project/UrlShortener/bin/Debug/net8.0/Humanizer.dll
+/Users/hatrung/Downloads/AMD1109-main/project/UrlShortener/bin/Debug/net8.0/Microsoft.AspNetCore.JsonPatch.dll
+/Users/hatrung/Downloads/AMD1109-main/project/UrlShortener/bin/Debug/net8.0/Microsoft.AspNetCore.Mvc.Razor.Extensions.dll
+/Users/hatrung/Downloads/AMD1109-main/project/UrlShortener/bin/Debug/net8.0/Microsoft.AspNetCore.Razor.Language.dll
+/Users/hatrung/Downloads/AMD1109-main/project/UrlShortener/bin/Debug/net8.0/Microsoft.Bcl.AsyncInterfaces.dll
+/Users/hatrung/Downloads/AMD1109-main/project/UrlShortener/bin/Debug/net8.0/Microsoft.Build.Locator.dll
+/Users/hatrung/Downloads/AMD1109-main/project/UrlShortener/bin/Debug/net8.0/Microsoft.CodeAnalysis.dll
+/Users/hatrung/Downloads/AMD1109-main/project/UrlShortener/bin/Debug/net8.0/Microsoft.CodeAnalysis.CSharp.dll
+/Users/hatrung/Downloads/AMD1109-main/project/UrlShortener/bin/Debug/net8.0/Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+/Users/hatrung/Downloads/AMD1109-main/project/UrlShortener/bin/Debug/net8.0/Microsoft.CodeAnalysis.Razor.dll
+/Users/hatrung/Downloads/AMD1109-main/project/UrlShortener/bin/Debug/net8.0/Microsoft.CodeAnalysis.Workspaces.dll
+/Users/hatrung/Downloads/AMD1109-main/project/UrlShortener/bin/Debug/net8.0/Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.dll
+/Users/hatrung/Downloads/AMD1109-main/project/UrlShortener/bin/Debug/net8.0/Microsoft.CodeAnalysis.Workspaces.MSBuild.dll
+/Users/hatrung/Downloads/AMD1109-main/project/UrlShortener/bin/Debug/net8.0/Microsoft.Data.Sqlite.dll
+/Users/hatrung/Downloads/AMD1109-main/project/UrlShortener/bin/Debug/net8.0/Microsoft.EntityFrameworkCore.dll
+/Users/hatrung/Downloads/AMD1109-main/project/UrlShortener/bin/Debug/net8.0/Microsoft.EntityFrameworkCore.Abstractions.dll
+/Users/hatrung/Downloads/AMD1109-main/project/UrlShortener/bin/Debug/net8.0/Microsoft.EntityFrameworkCore.Design.dll
+/Users/hatrung/Downloads/AMD1109-main/project/UrlShortener/bin/Debug/net8.0/Microsoft.EntityFrameworkCore.Relational.dll
+/Users/hatrung/Downloads/AMD1109-main/project/UrlShortener/bin/Debug/net8.0/Microsoft.EntityFrameworkCore.Sqlite.dll
+/Users/hatrung/Downloads/AMD1109-main/project/UrlShortener/bin/Debug/net8.0/Microsoft.Extensions.Caching.Abstractions.dll
+/Users/hatrung/Downloads/AMD1109-main/project/UrlShortener/bin/Debug/net8.0/Microsoft.Extensions.Caching.Memory.dll
+/Users/hatrung/Downloads/AMD1109-main/project/UrlShortener/bin/Debug/net8.0/Microsoft.Extensions.Configuration.Abstractions.dll
+/Users/hatrung/Downloads/AMD1109-main/project/UrlShortener/bin/Debug/net8.0/Microsoft.Extensions.DependencyInjection.dll
+/Users/hatrung/Downloads/AMD1109-main/project/UrlShortener/bin/Debug/net8.0/Microsoft.Extensions.DependencyInjection.Abstractions.dll
+/Users/hatrung/Downloads/AMD1109-main/project/UrlShortener/bin/Debug/net8.0/Microsoft.Extensions.DependencyModel.dll
+/Users/hatrung/Downloads/AMD1109-main/project/UrlShortener/bin/Debug/net8.0/Microsoft.Extensions.Diagnostics.Abstractions.dll
+/Users/hatrung/Downloads/AMD1109-main/project/UrlShortener/bin/Debug/net8.0/Microsoft.Extensions.Hosting.Abstractions.dll
+/Users/hatrung/Downloads/AMD1109-main/project/UrlShortener/bin/Debug/net8.0/Microsoft.Extensions.Localization.dll
+/Users/hatrung/Downloads/AMD1109-main/project/UrlShortener/bin/Debug/net8.0/Microsoft.Extensions.Localization.Abstractions.dll
+/Users/hatrung/Downloads/AMD1109-main/project/UrlShortener/bin/Debug/net8.0/Microsoft.Extensions.Logging.dll
+/Users/hatrung/Downloads/AMD1109-main/project/UrlShortener/bin/Debug/net8.0/Microsoft.Extensions.Logging.Abstractions.dll
+/Users/hatrung/Downloads/AMD1109-main/project/UrlShortener/bin/Debug/net8.0/Microsoft.Extensions.ObjectPool.dll
+/Users/hatrung/Downloads/AMD1109-main/project/UrlShortener/bin/Debug/net8.0/Microsoft.Extensions.Options.dll
+/Users/hatrung/Downloads/AMD1109-main/project/UrlShortener/bin/Debug/net8.0/Microsoft.Extensions.Primitives.dll
+/Users/hatrung/Downloads/AMD1109-main/project/UrlShortener/bin/Debug/net8.0/Microsoft.Extensions.WebEncoders.dll
+/Users/hatrung/Downloads/AMD1109-main/project/UrlShortener/bin/Debug/net8.0/Mono.TextTemplating.dll
+/Users/hatrung/Downloads/AMD1109-main/project/UrlShortener/bin/Debug/net8.0/Newtonsoft.Json.dll
+/Users/hatrung/Downloads/AMD1109-main/project/UrlShortener/bin/Debug/net8.0/Newtonsoft.Json.Bson.dll
+/Users/hatrung/Downloads/AMD1109-main/project/UrlShortener/bin/Debug/net8.0/SQLitePCLRaw.batteries_v2.dll
+/Users/hatrung/Downloads/AMD1109-main/project/UrlShortener/bin/Debug/net8.0/SQLitePCLRaw.core.dll
+/Users/hatrung/Downloads/AMD1109-main/project/UrlShortener/bin/Debug/net8.0/SQLitePCLRaw.provider.e_sqlite3.dll
+/Users/hatrung/Downloads/AMD1109-main/project/UrlShortener/bin/Debug/net8.0/System.CodeDom.dll
+/Users/hatrung/Downloads/AMD1109-main/project/UrlShortener/bin/Debug/net8.0/System.Composition.AttributedModel.dll
+/Users/hatrung/Downloads/AMD1109-main/project/UrlShortener/bin/Debug/net8.0/System.Composition.Convention.dll
+/Users/hatrung/Downloads/AMD1109-main/project/UrlShortener/bin/Debug/net8.0/System.Composition.Hosting.dll
+/Users/hatrung/Downloads/AMD1109-main/project/UrlShortener/bin/Debug/net8.0/System.Composition.Runtime.dll
+/Users/hatrung/Downloads/AMD1109-main/project/UrlShortener/bin/Debug/net8.0/System.Composition.TypedParts.dll
+/Users/hatrung/Downloads/AMD1109-main/project/UrlShortener/bin/Debug/net8.0/System.Diagnostics.DiagnosticSource.dll
+/Users/hatrung/Downloads/AMD1109-main/project/UrlShortener/bin/Debug/net8.0/System.IO.Pipelines.dll
+/Users/hatrung/Downloads/AMD1109-main/project/UrlShortener/bin/Debug/net8.0/System.Security.Cryptography.Pkcs.dll
+/Users/hatrung/Downloads/AMD1109-main/project/UrlShortener/bin/Debug/net8.0/System.Security.Cryptography.Xml.dll
+/Users/hatrung/Downloads/AMD1109-main/project/UrlShortener/bin/Debug/net8.0/System.Text.Encodings.Web.dll
+/Users/hatrung/Downloads/AMD1109-main/project/UrlShortener/bin/Debug/net8.0/System.Text.Json.dll
+/Users/hatrung/Downloads/AMD1109-main/project/UrlShortener/bin/Debug/net8.0/cs/Microsoft.CodeAnalysis.resources.dll
+/Users/hatrung/Downloads/AMD1109-main/project/UrlShortener/bin/Debug/net8.0/de/Microsoft.CodeAnalysis.resources.dll
+/Users/hatrung/Downloads/AMD1109-main/project/UrlShortener/bin/Debug/net8.0/es/Microsoft.CodeAnalysis.resources.dll
+/Users/hatrung/Downloads/AMD1109-main/project/UrlShortener/bin/Debug/net8.0/fr/Microsoft.CodeAnalysis.resources.dll
+/Users/hatrung/Downloads/AMD1109-main/project/UrlShortener/bin/Debug/net8.0/it/Microsoft.CodeAnalysis.resources.dll
+/Users/hatrung/Downloads/AMD1109-main/project/UrlShortener/bin/Debug/net8.0/ja/Microsoft.CodeAnalysis.resources.dll
+/Users/hatrung/Downloads/AMD1109-main/project/UrlShortener/bin/Debug/net8.0/ko/Microsoft.CodeAnalysis.resources.dll
+/Users/hatrung/Downloads/AMD1109-main/project/UrlShortener/bin/Debug/net8.0/pl/Microsoft.CodeAnalysis.resources.dll
+/Users/hatrung/Downloads/AMD1109-main/project/UrlShortener/bin/Debug/net8.0/pt-BR/Microsoft.CodeAnalysis.resources.dll
+/Users/hatrung/Downloads/AMD1109-main/project/UrlShortener/bin/Debug/net8.0/ru/Microsoft.CodeAnalysis.resources.dll
+/Users/hatrung/Downloads/AMD1109-main/project/UrlShortener/bin/Debug/net8.0/tr/Microsoft.CodeAnalysis.resources.dll
+/Users/hatrung/Downloads/AMD1109-main/project/UrlShortener/bin/Debug/net8.0/zh-Hans/Microsoft.CodeAnalysis.resources.dll
+/Users/hatrung/Downloads/AMD1109-main/project/UrlShortener/bin/Debug/net8.0/zh-Hant/Microsoft.CodeAnalysis.resources.dll
+/Users/hatrung/Downloads/AMD1109-main/project/UrlShortener/bin/Debug/net8.0/cs/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/hatrung/Downloads/AMD1109-main/project/UrlShortener/bin/Debug/net8.0/de/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/hatrung/Downloads/AMD1109-main/project/UrlShortener/bin/Debug/net8.0/es/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/hatrung/Downloads/AMD1109-main/project/UrlShortener/bin/Debug/net8.0/fr/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/hatrung/Downloads/AMD1109-main/project/UrlShortener/bin/Debug/net8.0/it/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/hatrung/Downloads/AMD1109-main/project/UrlShortener/bin/Debug/net8.0/ja/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/hatrung/Downloads/AMD1109-main/project/UrlShortener/bin/Debug/net8.0/ko/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/hatrung/Downloads/AMD1109-main/project/UrlShortener/bin/Debug/net8.0/pl/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/hatrung/Downloads/AMD1109-main/project/UrlShortener/bin/Debug/net8.0/pt-BR/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/hatrung/Downloads/AMD1109-main/project/UrlShortener/bin/Debug/net8.0/ru/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/hatrung/Downloads/AMD1109-main/project/UrlShortener/bin/Debug/net8.0/tr/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/hatrung/Downloads/AMD1109-main/project/UrlShortener/bin/Debug/net8.0/zh-Hans/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/hatrung/Downloads/AMD1109-main/project/UrlShortener/bin/Debug/net8.0/zh-Hant/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/hatrung/Downloads/AMD1109-main/project/UrlShortener/bin/Debug/net8.0/cs/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/hatrung/Downloads/AMD1109-main/project/UrlShortener/bin/Debug/net8.0/de/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/hatrung/Downloads/AMD1109-main/project/UrlShortener/bin/Debug/net8.0/es/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/hatrung/Downloads/AMD1109-main/project/UrlShortener/bin/Debug/net8.0/fr/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/hatrung/Downloads/AMD1109-main/project/UrlShortener/bin/Debug/net8.0/it/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/hatrung/Downloads/AMD1109-main/project/UrlShortener/bin/Debug/net8.0/ja/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/hatrung/Downloads/AMD1109-main/project/UrlShortener/bin/Debug/net8.0/ko/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/hatrung/Downloads/AMD1109-main/project/UrlShortener/bin/Debug/net8.0/pl/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/hatrung/Downloads/AMD1109-main/project/UrlShortener/bin/Debug/net8.0/pt-BR/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/hatrung/Downloads/AMD1109-main/project/UrlShortener/bin/Debug/net8.0/ru/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/hatrung/Downloads/AMD1109-main/project/UrlShortener/bin/Debug/net8.0/tr/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/hatrung/Downloads/AMD1109-main/project/UrlShortener/bin/Debug/net8.0/zh-Hans/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/hatrung/Downloads/AMD1109-main/project/UrlShortener/bin/Debug/net8.0/zh-Hant/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/hatrung/Downloads/AMD1109-main/project/UrlShortener/bin/Debug/net8.0/cs/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/hatrung/Downloads/AMD1109-main/project/UrlShortener/bin/Debug/net8.0/de/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/hatrung/Downloads/AMD1109-main/project/UrlShortener/bin/Debug/net8.0/es/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/hatrung/Downloads/AMD1109-main/project/UrlShortener/bin/Debug/net8.0/fr/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/hatrung/Downloads/AMD1109-main/project/UrlShortener/bin/Debug/net8.0/it/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/hatrung/Downloads/AMD1109-main/project/UrlShortener/bin/Debug/net8.0/ja/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/hatrung/Downloads/AMD1109-main/project/UrlShortener/bin/Debug/net8.0/ko/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/hatrung/Downloads/AMD1109-main/project/UrlShortener/bin/Debug/net8.0/pl/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/hatrung/Downloads/AMD1109-main/project/UrlShortener/bin/Debug/net8.0/pt-BR/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/hatrung/Downloads/AMD1109-main/project/UrlShortener/bin/Debug/net8.0/ru/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/hatrung/Downloads/AMD1109-main/project/UrlShortener/bin/Debug/net8.0/tr/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/hatrung/Downloads/AMD1109-main/project/UrlShortener/bin/Debug/net8.0/zh-Hans/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/hatrung/Downloads/AMD1109-main/project/UrlShortener/bin/Debug/net8.0/zh-Hant/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/hatrung/Downloads/AMD1109-main/project/UrlShortener/bin/Debug/net8.0/cs/Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+/Users/hatrung/Downloads/AMD1109-main/project/UrlShortener/bin/Debug/net8.0/de/Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+/Users/hatrung/Downloads/AMD1109-main/project/UrlShortener/bin/Debug/net8.0/es/Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+/Users/hatrung/Downloads/AMD1109-main/project/UrlShortener/bin/Debug/net8.0/fr/Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+/Users/hatrung/Downloads/AMD1109-main/project/UrlShortener/bin/Debug/net8.0/it/Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+/Users/hatrung/Downloads/AMD1109-main/project/UrlShortener/bin/Debug/net8.0/ja/Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+/Users/hatrung/Downloads/AMD1109-main/project/UrlShortener/bin/Debug/net8.0/ko/Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+/Users/hatrung/Downloads/AMD1109-main/project/UrlShortener/bin/Debug/net8.0/pl/Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+/Users/hatrung/Downloads/AMD1109-main/project/UrlShortener/bin/Debug/net8.0/pt-BR/Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+/Users/hatrung/Downloads/AMD1109-main/project/UrlShortener/bin/Debug/net8.0/ru/Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+/Users/hatrung/Downloads/AMD1109-main/project/UrlShortener/bin/Debug/net8.0/tr/Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+/Users/hatrung/Downloads/AMD1109-main/project/UrlShortener/bin/Debug/net8.0/zh-Hans/Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+/Users/hatrung/Downloads/AMD1109-main/project/UrlShortener/bin/Debug/net8.0/zh-Hant/Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+/Users/hatrung/Downloads/AMD1109-main/project/UrlShortener/bin/Debug/net8.0/runtimes/browser-wasm/nativeassets/net8.0/e_sqlite3.a
+/Users/hatrung/Downloads/AMD1109-main/project/UrlShortener/bin/Debug/net8.0/runtimes/linux-arm/native/libe_sqlite3.so
+/Users/hatrung/Downloads/AMD1109-main/project/UrlShortener/bin/Debug/net8.0/runtimes/linux-arm64/native/libe_sqlite3.so
+/Users/hatrung/Downloads/AMD1109-main/project/UrlShortener/bin/Debug/net8.0/runtimes/linux-armel/native/libe_sqlite3.so
+/Users/hatrung/Downloads/AMD1109-main/project/UrlShortener/bin/Debug/net8.0/runtimes/linux-mips64/native/libe_sqlite3.so
+/Users/hatrung/Downloads/AMD1109-main/project/UrlShortener/bin/Debug/net8.0/runtimes/linux-musl-arm/native/libe_sqlite3.so
+/Users/hatrung/Downloads/AMD1109-main/project/UrlShortener/bin/Debug/net8.0/runtimes/linux-musl-arm64/native/libe_sqlite3.so
+/Users/hatrung/Downloads/AMD1109-main/project/UrlShortener/bin/Debug/net8.0/runtimes/linux-musl-s390x/native/libe_sqlite3.so
+/Users/hatrung/Downloads/AMD1109-main/project/UrlShortener/bin/Debug/net8.0/runtimes/linux-musl-x64/native/libe_sqlite3.so
+/Users/hatrung/Downloads/AMD1109-main/project/UrlShortener/bin/Debug/net8.0/runtimes/linux-ppc64le/native/libe_sqlite3.so
+/Users/hatrung/Downloads/AMD1109-main/project/UrlShortener/bin/Debug/net8.0/runtimes/linux-s390x/native/libe_sqlite3.so
+/Users/hatrung/Downloads/AMD1109-main/project/UrlShortener/bin/Debug/net8.0/runtimes/linux-x64/native/libe_sqlite3.so
+/Users/hatrung/Downloads/AMD1109-main/project/UrlShortener/bin/Debug/net8.0/runtimes/linux-x86/native/libe_sqlite3.so
+/Users/hatrung/Downloads/AMD1109-main/project/UrlShortener/bin/Debug/net8.0/runtimes/maccatalyst-arm64/native/libe_sqlite3.dylib
+/Users/hatrung/Downloads/AMD1109-main/project/UrlShortener/bin/Debug/net8.0/runtimes/maccatalyst-x64/native/libe_sqlite3.dylib
+/Users/hatrung/Downloads/AMD1109-main/project/UrlShortener/bin/Debug/net8.0/runtimes/osx-arm64/native/libe_sqlite3.dylib
+/Users/hatrung/Downloads/AMD1109-main/project/UrlShortener/bin/Debug/net8.0/runtimes/osx-x64/native/libe_sqlite3.dylib
+/Users/hatrung/Downloads/AMD1109-main/project/UrlShortener/bin/Debug/net8.0/runtimes/win-arm/native/e_sqlite3.dll
+/Users/hatrung/Downloads/AMD1109-main/project/UrlShortener/bin/Debug/net8.0/runtimes/win-arm64/native/e_sqlite3.dll
+/Users/hatrung/Downloads/AMD1109-main/project/UrlShortener/bin/Debug/net8.0/runtimes/win-x64/native/e_sqlite3.dll
+/Users/hatrung/Downloads/AMD1109-main/project/UrlShortener/bin/Debug/net8.0/runtimes/win-x86/native/e_sqlite3.dll
+/Users/hatrung/Downloads/AMD1109-main/project/UrlShortener/bin/Debug/net8.0/runtimes/win/lib/net8.0/System.Security.Cryptography.Pkcs.dll
+/Users/hatrung/Downloads/AMD1109-main/project/UrlShortener/bin/Debug/net8.0/runtimes/browser/lib/net8.0/System.Text.Encodings.Web.dll
+/Users/hatrung/Downloads/AMD1109-main/project/UrlShortener/obj/Debug/net8.0/UrlShortener.csproj.AssemblyReference.cache
+/Users/hatrung/Downloads/AMD1109-main/project/UrlShortener/obj/Debug/net8.0/UrlShortener.GeneratedMSBuildEditorConfig.editorconfig
+/Users/hatrung/Downloads/AMD1109-main/project/UrlShortener/obj/Debug/net8.0/UrlShortener.AssemblyInfoInputs.cache
+/Users/hatrung/Downloads/AMD1109-main/project/UrlShortener/obj/Debug/net8.0/UrlShortener.AssemblyInfo.cs
+/Users/hatrung/Downloads/AMD1109-main/project/UrlShortener/obj/Debug/net8.0/UrlShortener.csproj.CoreCompileInputs.cache
+/Users/hatrung/Downloads/AMD1109-main/project/UrlShortener/obj/Debug/net8.0/UrlShortener.MvcApplicationPartsAssemblyInfo.cache
+/Users/hatrung/Downloads/AMD1109-main/project/UrlShortener/obj/Debug/net8.0/UrlShortener.RazorAssemblyInfo.cache
+/Users/hatrung/Downloads/AMD1109-main/project/UrlShortener/obj/Debug/net8.0/UrlShortener.RazorAssemblyInfo.cs
+/Users/hatrung/Downloads/AMD1109-main/project/UrlShortener/obj/Debug/net8.0/UrlShortener.sourcelink.json
+/Users/hatrung/Downloads/AMD1109-main/project/UrlShortener/obj/Debug/net8.0/staticwebassets.build.json
+/Users/hatrung/Downloads/AMD1109-main/project/UrlShortener/obj/Debug/net8.0/staticwebassets.development.json
+/Users/hatrung/Downloads/AMD1109-main/project/UrlShortener/obj/Debug/net8.0/staticwebassets/msbuild.UrlShortener.Microsoft.AspNetCore.StaticWebAssets.props
+/Users/hatrung/Downloads/AMD1109-main/project/UrlShortener/obj/Debug/net8.0/staticwebassets/msbuild.build.UrlShortener.props
+/Users/hatrung/Downloads/AMD1109-main/project/UrlShortener/obj/Debug/net8.0/staticwebassets/msbuild.buildMultiTargeting.UrlShortener.props
+/Users/hatrung/Downloads/AMD1109-main/project/UrlShortener/obj/Debug/net8.0/staticwebassets/msbuild.buildTransitive.UrlShortener.props
+/Users/hatrung/Downloads/AMD1109-main/project/UrlShortener/obj/Debug/net8.0/staticwebassets.pack.json
+/Users/hatrung/Downloads/AMD1109-main/project/UrlShortener/obj/Debug/net8.0/scopedcss/Views/Shared/_Layout.cshtml.rz.scp.css
+/Users/hatrung/Downloads/AMD1109-main/project/UrlShortener/obj/Debug/net8.0/scopedcss/bundle/UrlShortener.styles.css
+/Users/hatrung/Downloads/AMD1109-main/project/UrlShortener/obj/Debug/net8.0/scopedcss/projectbundle/UrlShortener.bundle.scp.css
+/Users/hatrung/Downloads/AMD1109-main/project/UrlShortener/obj/Debug/net8.0/UrlShort.46B0166A.Up2Date
+/Users/hatrung/Downloads/AMD1109-main/project/UrlShortener/obj/Debug/net8.0/UrlShortener.dll
+/Users/hatrung/Downloads/AMD1109-main/project/UrlShortener/obj/Debug/net8.0/refint/UrlShortener.dll
+/Users/hatrung/Downloads/AMD1109-main/project/UrlShortener/obj/Debug/net8.0/UrlShortener.pdb
+/Users/hatrung/Downloads/AMD1109-main/project/UrlShortener/obj/Debug/net8.0/UrlShortener.genruntimeconfig.cache
+/Users/hatrung/Downloads/AMD1109-main/project/UrlShortener/obj/Debug/net8.0/ref/UrlShortener.dll
+/Users/hatrung/Downloads/AMD1109-main/project/UrlShortener/bin/Debug/net8.0/Microsoft.Win32.SystemEvents.dll
+/Users/hatrung/Downloads/AMD1109-main/project/UrlShortener/bin/Debug/net8.0/QRCoder.dll
+/Users/hatrung/Downloads/AMD1109-main/project/UrlShortener/bin/Debug/net8.0/System.Drawing.Common.dll
+/Users/hatrung/Downloads/AMD1109-main/project/UrlShortener/bin/Debug/net8.0/System.Private.Windows.Core.dll
+/Users/hatrung/Downloads/AMD1109-main/project/UrlShortener/bin/Debug/net8.0/runtimes/win/lib/net8.0/Microsoft.Win32.SystemEvents.dll
