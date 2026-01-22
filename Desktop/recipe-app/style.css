@@ -1,0 +1,199 @@
+/* =========================
+   RESET & BASE
+========================= */
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Arial, sans-serif;
+  background: #f3f4f6;
+  color: #1f2937;
+  min-height: 100vh;
+}
+
+/* =========================
+   APP HEADER (TOP BAR)
+========================= */
+header {
+  background: linear-gradient(135deg, #ff7a18, #ffb347);
+  color: #ffffff;
+  padding: 22px 16px;
+  text-align: center;
+  border-bottom-left-radius: 24px;
+  border-bottom-right-radius: 24px;
+}
+
+header h1 {
+  font-size: 1.7rem;
+  font-weight: 700;
+}
+
+header p {
+  font-size: 0.9rem;
+  margin-top: 6px;
+  opacity: 0.9;
+}
+
+/* =========================
+   NAVIGATION (TAB BAR)
+========================= */
+nav {
+  position: sticky;
+  top: 0;
+  background: #ffffff;
+  display: flex;
+  justify-content: space-around;
+  padding: 12px 0;
+  margin-top: -12px;
+  box-shadow: 0 8px 16px rgba(0,0,0,0.08);
+  z-index: 10;
+}
+
+nav a {
+  text-decoration: none;
+  font-size: 0.85rem;
+  font-weight: 600;
+  color: #ff7a18;
+  padding: 6px 10px;
+  border-radius: 10px;
+}
+
+nav a:active {
+  background: rgba(255,122,24,0.15);
+}
+
+/* =========================
+   MAIN CONTENT
+========================= */
+.content {
+  padding: 20px 16px 90px;
+}
+
+/* =========================
+   SECTION TITLES
+========================= */
+.section-title {
+  margin-top: 26px;
+  font-size: 1.1rem;
+  font-weight: 700;
+}
+
+/* =========================
+   HOME GRID (MEAL CHOICES)
+========================= */
+.home-grid {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  gap: 12px;
+  margin-top: 16px;
+}
+
+.home-card {
+  background: #ffffff;
+  border-radius: 18px;
+  padding: 16px 10px;
+  text-align: center;
+  box-shadow: 0 8px 16px rgba(0,0,0,0.06);
+  transition: transform 0.15s ease;
+}
+
+.home-card:hover {
+  transform: translateY(-2px);
+}
+
+.home-card span {
+  font-size: 1.8rem;
+  display: block;
+  margin-bottom: 6px;
+}
+
+.home-card a {
+  text-decoration: none;
+  font-size: 0.85rem;
+  font-weight: 600;
+  color: #1f2937;
+}
+
+/* =========================
+   RECIPE CARDS (ALL PAGES)
+========================= */
+.card {
+  background: #ffffff;
+  border-radius: 18px;
+  padding: 16px;
+  margin-top: 14px;
+  box-shadow: 0 10px 20px rgba(0,0,0,0.06);
+}
+
+.card h3 {
+  font-size: 1.05rem;
+  margin-bottom: 6px;
+}
+
+.card p {
+  font-size: 0.85rem;
+  color: #6b7280;
+  margin-bottom: 10px;
+}
+
+.card a {
+  display: inline-block;
+  text-decoration: none;
+  font-size: 0.8rem;
+  font-weight: 600;
+  color: #ffffff;
+  background: #ff7a18;
+  padding: 8px 14px;
+  border-radius: 999px;
+}
+
+/* =========================
+   RECIPE DETAIL PAGE
+========================= */
+.content h2 {
+  margin-top: 20px;
+  margin-bottom: 10px;
+  font-size: 1.05rem;
+}
+
+ul,
+ol {
+  padding-left: 20px;
+  font-size: 0.9rem;
+  line-height: 1.6;
+}
+
+li {
+  margin-bottom: 6px;
+}
+
+/* =========================
+   TABLET RESPONSIVE
+========================= */
+@media (min-width: 600px) {
+  header h1 {
+    font-size: 2rem;
+  }
+
+  .content {
+    padding: 24px 32px 90px;
+  }
+
+  .home-grid {
+    grid-template-columns: repeat(3, 1fr);
+  }
+}
+
+/* =========================
+   DESKTOP (APP PREVIEW)
+========================= */
+@media (min-width: 900px) {
+  body {
+    max-width: 420px;
+    margin: auto;
+    background: #e5e7eb;
+  }
+}
